@@ -1,0 +1,4 @@
+Points used were int_max 2147483647, 1. 
+Adding 1 to the max value of signed int caused overflow of the numerators (x+y) for the midpoint_original.
+
+Points used were -22, -22. Because both values for the parameter this caused overflow to occur for midpoint_A
